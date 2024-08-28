@@ -12,8 +12,8 @@
 
 ## Screenshots
 
-![VidSnapper Light Mode](screenshots/light_mode.png)
-![VidSnapper Dark Mode](screenshots/dark_mode.png)
+![VidSnapper Light Mode](screenshots/Light_Mode.png)
+![VidSnapper Dark Mode](screenshots/Dark_Mode.png)
 
 ## Installation
 
