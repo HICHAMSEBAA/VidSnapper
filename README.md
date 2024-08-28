@@ -45,6 +45,9 @@
 ## Dependencies
 - **CustomTkinter:** A modernized version of Tkinter for better-looking GUI applications.
 - **pytubefix:** A fork of the original pytube library that is patched to handle YouTube's bot detection.
+  You can install all dependencies using:
+  ```bash
+   pip install -r requirements.txt
 
 ## Acknowledgements
 
