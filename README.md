@@ -34,3 +34,21 @@
 4. **Run the Application:**
    ```bash
    python main.py
+
+## Usage
+
+1. **Enter a YouTube Link**: Paste the YouTube video link into the provided input field.
+2. **Select Format**: Choose whether to download the video as `Mp4` or extract the audio as `Mp3`.
+3. **Download**: Click the `"Download"` button to start the download. The progress bar and percentage will update in real-time.
+4. **Change Mode**: Use the `"Dark Mode"` switch to toggle between light and dark modes.
+
+## Dependencies
+- **CustomTkinter:** A modernized version of Tkinter for better-looking GUI applications.
+- **pytubefix:** A fork of the original pytube library that is patched to handle YouTube's bot detection.
+
+## Acknowledgements
+
+- **pytubefix**: For providing a reliable way to download YouTube videos and audio.
+- **CustomTkinter**: For enhancing the visual appeal of traditional Tkinter applications.
+
+
