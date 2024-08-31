@@ -1,5 +1,10 @@
 # VidSnapper
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![License](https://img.shields.io/github/license/HICHAMSEBAA/ProxyChecker)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+
+
 **VidSnapper** is a simple, user-friendly desktop application that allows you to download videos and audio from YouTube using the Python library `pytubefix`. This tool provides a graphical user interface (GUI) built with `CustomTkinter`, offering features such as light/dark mode switching, progress tracking, and format selection.
 
 ## Features
@@ -53,5 +58,16 @@
 
 - **pytubefix**: For providing a reliable way to download YouTube videos and audio.
 - **CustomTkinter**: For enhancing the visual appeal of traditional Tkinter applications.
+
+  ## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. All contributions are welcome!
+
+## Contact
+
+For any questions or suggestions, feel free to reach out:
+
+- **Email**: h_sebaa@ensta.edu.dz
+- **GitHub**: [HICHAMSEBAA](https://github.com/HICHAMSEBAA)
 
 
